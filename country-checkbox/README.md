@@ -1,7 +1,16 @@
 # country-checkbox
 country checkbox app - wih Ts and React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Behavior
+
+All countries are selectable individually
+
+"Select All" checkbox selects and deselect all of them when clicked
+
+If "Select All" is checked (and so are all the rest acordingly), when clicking on one of the country's checkbox, "Select All" will be unselected
+
+If all countries are checked, then "Select All" will be checked automatically
+
 
 ## Available Scripts
 
