@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# country-checkbox
+country checkbox app - wih Ts and React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
